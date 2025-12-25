@@ -104,10 +104,19 @@ I'm an experienced Full Stack Software Developer with a passion for designing, d
 ☁️ Cloud Infrastructure      🔧 API Development         📈 Performance Optimization
 ```
 
+---
+
 ### 🏆 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified"/>
+  <a href="https://www.credly.com/badges/9afb1d56-d8ba-4524-b464-a9a40be03d74/linked_in_profile">
+    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="150"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.credly.com/badges/9afb1d56-d8ba-4524-b464-a9a40be03d74/linked_in_profile">
+    <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified"/>
+  </a>
 </p>
 
 ---
