@@ -104,21 +104,6 @@ I'm an experienced Full Stack Software Developer with a passion for designing, d
 ☁️ Cloud Infrastructure      🔧 API Development         📈 Performance Optimization
 ```
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuneebAhmedQureshi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebAhmedQureshi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuneebAhmedQureshi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ### 🏆 Certifications
 
 <p align="center">
